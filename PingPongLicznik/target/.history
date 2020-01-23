@@ -1,0 +1,22 @@
+reStart
+reStop
+run
+reStart
+reStop
+5
+exit
+reStart
+reStop
+cd ..
+exit
+sbt
+reStart
+reStop
+reStart
+exit
+reStart
+exit
+reStart
+exit
+reStart
+exit

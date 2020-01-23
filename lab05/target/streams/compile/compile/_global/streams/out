@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\DELPiSHO\Desktop\dzianisau-yauheni\lab05_remastered\src\main\scala\MyList.scala:54:1: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0mMyList()[0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\DELPiSHO\Desktop\dzianisau-yauheni\lab05_remastered\src\main\scala\MyList.scala:55:1: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0mMyList(1,2,3)[0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m

@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\DELPiSHO\Desktop\trójkąt\src\main\scala\Main.scala:27:13: Missing closing brace `}' assumed here[0m
+[0m[[0m[31merror[0m] [0m[0m            sender() ! true  [0m
+[0m[[0m[31merror[0m] [0m[0m            ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\DELPiSHO\Desktop\trójkąt\src\main\scala\Main.scala:28:13: ';' expected but 'else' found.[0m
+[0m[[0m[31merror[0m] [0m[0m            else sender() ! false   [0m
+[0m[[0m[31merror[0m] [0m[0m            ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m

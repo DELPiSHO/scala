@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\DELPiSHO\Desktop\Suma\src\main\scala\suma.scala:19:32: not found: value liczba1[0m
+[0m[[0m[31merror[0m] [0m[0m        context.become(iloczyn(liczba1,liczba2))[0m
+[0m[[0m[31merror[0m] [0m[0m                               ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\DELPiSHO\Desktop\Suma\src\main\scala\suma.scala:19:40: not found: value liczba2[0m
+[0m[[0m[31merror[0m] [0m[0m        context.become(iloczyn(liczba1,liczba2))[0m
+[0m[[0m[31merror[0m] [0m[0m                                       ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m

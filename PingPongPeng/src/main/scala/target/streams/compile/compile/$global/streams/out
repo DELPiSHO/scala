@@ -1,0 +1,22 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\DELPiSHO\Desktop\PingPongPeng\src\main\scala\Main.scala:1:8: not found: object akka[0m
+[0m[[0m[31merror[0m] [0m[0mimport akka.actor.{ActorSystem, Actor, ActorRef, Props,PoisonPill}[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\DELPiSHO\Desktop\PingPongPeng\src\main\scala\Main.scala:4:29: not found: type ActorRef[0m
+[0m[[0m[31merror[0m] [0m[0mcase class Graj(przeciwnik: ActorRef)[0m
+[0m[[0m[31merror[0m] [0m[0m                            ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\DELPiSHO\Desktop\PingPongPeng\src\main\scala\Main.scala:9:24: not found: type Actor[0m
+[0m[[0m[31merror[0m] [0m[0mclass Nadzorca extends Actor {[0m
+[0m[[0m[31merror[0m] [0m[0m                       ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\DELPiSHO\Desktop\PingPongPeng\src\main\scala\Main.scala:13:15: not found: type Receive[0m
+[0m[[0m[31merror[0m] [0m[0mdef receive : Receive = {[0m
+[0m[[0m[31merror[0m] [0m[0m              ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\DELPiSHO\Desktop\PingPongPeng\src\main\scala\Main.scala:23:5: not found: value sender[0m
+[0m[[0m[31merror[0m] [0m[0m    sender() ! Pong[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\DELPiSHO\Desktop\PingPongPeng\src\main\scala\Main.scala:28:5: not found: value sender[0m
+[0m[[0m[31merror[0m] [0m[0m    sender() ! Ping[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\DELPiSHO\Desktop\PingPongPeng\src\main\scala\Main.scala:37:16: not found: value ActorSystem[0m
+[0m[[0m[31merror[0m] [0m[0m  val system = ActorSystem("sys")[0m
+[0m[[0m[31merror[0m] [0m[0m               ^[0m
+[0m[[0m[31merror[0m] [0m[0m7 errors found[0m

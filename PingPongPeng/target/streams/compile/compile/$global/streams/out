@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\DELPiSHO\Desktop\PingPongPeng\src\main\scala\Main.scala:48:14: not found: value gracz3[0m
+[0m[[0m[31merror[0m] [0m[0mgracz2 ! Wid(gracz3)[0m
+[0m[[0m[31merror[0m] [0m[0m             ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\DELPiSHO\Desktop\PingPongPeng\src\main\scala\Main.scala:49:1: not found: value gracz3[0m
+[0m[[0m[31merror[0m] [0m[0mgracz3 ! Wid(gracz1)[0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m

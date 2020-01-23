@@ -1,0 +1,93 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging D:\5 semestr\scala\PingPong\target\scala-2.12\string_2.12-1.0.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Klient.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\5 semestr\scala\PingPong\target\scala-2.12\classes\Klient.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Zmien$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\5 semestr\scala\PingPong\target\scala-2.12\classes\Zmien$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\5 semestr\scala\PingPong\target\scala-2.12\classes\Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Nadzorca$$anonfun$receive$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\5 semestr\scala\PingPong\target\scala-2.12\classes\Nadzorca$$anonfun$receive$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Zmien.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\5 semestr\scala\PingPong\target\scala-2.12\classes\Zmien.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ogniem-i-mieczem.txt[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\5 semestr\scala\PingPong\target\scala-2.12\classes\ogniem-i-mieczem.txt[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Zacznij.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\5 semestr\scala\PingPong\target\scala-2.12\classes\Zacznij.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Pracownik$$anonfun$receive$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\5 semestr\scala\PingPong\target\scala-2.12\classes\Pracownik$$anonfun$receive$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Wykonawca.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\5 semestr\scala\PingPong\target\scala-2.12\classes\Wykonawca.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Wykonawca$$anonfun$receive$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\5 semestr\scala\PingPong\target\scala-2.12\classes\Wykonawca$$anonfun$receive$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Wynik$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\5 semestr\scala\PingPong\target\scala-2.12\classes\Wynik$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Gracz$Graj$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\5 semestr\scala\PingPong\target\scala-2.12\classes\Gracz$Graj$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\5 semestr\scala\PingPong\target\scala-2.12\classes\Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Serwer$$anonfun$receive$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\5 semestr\scala\PingPong\target\scala-2.12\classes\Serwer$$anonfun$receive$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Gracz$Pong$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\5 semestr\scala\PingPong\target\scala-2.12\classes\Gracz$Pong$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Nadzorca.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\5 semestr\scala\PingPong\target\scala-2.12\classes\Nadzorca.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Wyslij$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\5 semestr\scala\PingPong\target\scala-2.12\classes\Wyslij$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Sprawdz.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\5 semestr\scala\PingPong\target\scala-2.12\classes\Sprawdz.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Ping$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\5 semestr\scala\PingPong\target\scala-2.12\classes\Ping$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Klient$$anonfun$receive$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\5 semestr\scala\PingPong\target\scala-2.12\classes\Klient$$anonfun$receive$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Pong.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\5 semestr\scala\PingPong\target\scala-2.12\classes\Pong.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Graj$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\5 semestr\scala\PingPong\target\scala-2.12\classes\Graj$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Gracz$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\5 semestr\scala\PingPong\target\scala-2.12\classes\Gracz$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Nadzorca$$anonfun$granie$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\5 semestr\scala\PingPong\target\scala-2.12\classes\Nadzorca$$anonfun$granie$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Wyswetl$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\5 semestr\scala\PingPong\target\scala-2.12\classes\Wyswetl$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Odbierz$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\5 semestr\scala\PingPong\target\scala-2.12\classes\Odbierz$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Wyslij.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\5 semestr\scala\PingPong\target\scala-2.12\classes\Wyslij.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Wyswetl.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\5 semestr\scala\PingPong\target\scala-2.12\classes\Wyswetl.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Sprawdz$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\5 semestr\scala\PingPong\target\scala-2.12\classes\Sprawdz$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\5 semestr\scala\PingPong\target\scala-2.12\classes\Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Gracz$Ping$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\5 semestr\scala\PingPong\target\scala-2.12\classes\Gracz$Ping$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Gracz$Graj.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\5 semestr\scala\PingPong\target\scala-2.12\classes\Gracz$Graj.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Nadzorca$$anonfun$wynik$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\5 semestr\scala\PingPong\target\scala-2.12\classes\Nadzorca$$anonfun$wynik$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Pong$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\5 semestr\scala\PingPong\target\scala-2.12\classes\Pong$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Odbierz.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\5 semestr\scala\PingPong\target\scala-2.12\classes\Odbierz.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Pracownik$$anonfun$iloczyn$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\5 semestr\scala\PingPong\target\scala-2.12\classes\Pracownik$$anonfun$iloczyn$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Gracz.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\5 semestr\scala\PingPong\target\scala-2.12\classes\Gracz.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Zacznij$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\5 semestr\scala\PingPong\target\scala-2.12\classes\Zacznij$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Graj.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\5 semestr\scala\PingPong\target\scala-2.12\classes\Graj.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Ping.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\5 semestr\scala\PingPong\target\scala-2.12\classes\Ping.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Wynik.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\5 semestr\scala\PingPong\target\scala-2.12\classes\Wynik.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MyActor$$anonfun$receive$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\5 semestr\scala\PingPong\target\scala-2.12\classes\MyActor$$anonfun$receive$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Serwer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\5 semestr\scala\PingPong\target\scala-2.12\classes\Serwer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Pracownik.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\5 semestr\scala\PingPong\target\scala-2.12\classes\Pracownik.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MyActor.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\5 semestr\scala\PingPong\target\scala-2.12\classes\MyActor.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m

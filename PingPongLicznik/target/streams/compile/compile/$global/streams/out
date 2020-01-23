@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\DELPiSHO\Desktop\training_akka\src\main\scala\Main.scala:16:21: not found: value granie[0m
+[0m[[0m[31merror[0m] [0m[0m     context.become(granie(ile))[0m
+[0m[[0m[31merror[0m] [0m[0m                    ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

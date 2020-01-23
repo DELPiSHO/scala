@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\DELPiSHO\Desktop\parzyste\src\main\scala\parzyste.scala:21:53: not found: value wykonawca[0m
+[0m[[0m[31merror[0m] [0m[0m            if(i % 2 == 0) println(i + " parzyste"+ wykonawca)[0m
+[0m[[0m[31merror[0m] [0m[0m                                                    ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
